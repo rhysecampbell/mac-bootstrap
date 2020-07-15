@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # 
-# Bootstrap script for setting up a OSX machine
+#  Bootstrap script for setting up a OSX machine
 # 
 # This should be idempotent so it can be run multiple times.
 #
